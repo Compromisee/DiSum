@@ -28,13 +28,8 @@ A Discord bot that sends a daily morning digest with **weather, top news, soccer
 - [Node.js](https://nodejs.org/) 18+
 - A Discord account
 
-### 2. Clone & Install
-```bash
-git clone <your-repo>
-cd discord-morning-bot
-npm install
-```
-
+### 2. Download and Extract
+Open folder in an editor of choice
 ### 3. Create a Discord Bot
 1. Go to [discord.com/developers/applications](https://discord.com/developers/applications)
 2. **New Application** → give it a name
